@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    
+}
+#inicial{
+    position: absolute;
+    background-color: #006494;
+    width: 100%;
+    height: 10%;
+    font: normal 15pt arial;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
